@@ -62,9 +62,9 @@
 				4E8FB03F23E07D07005F7761 /* SceneDelegate.swift */,
 				4E8FB04123E07D07005F7761 /* MainViewController.swift */,
 				4E8FB05123E07EC6005F7761 /* Emiter.swift */,
-				4E8FB04323E07D07005F7761 /* Main.storyboard */,
 				4E8FB04623E07D09005F7761 /* Assets.xcassets */,
 				4E8FB04823E07D09005F7761 /* LaunchScreen.storyboard */,
+				4E8FB04323E07D07005F7761 /* Main.storyboard */,
 				4E8FB04B23E07D09005F7761 /* Info.plist */,
 			);
 			path = Race;
